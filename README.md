@@ -14,10 +14,9 @@ Provide instructions and examples for use. Include screenshots as needed.
 
 To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
 
-md code-refactor/assets/images/Screen Shot 2022-06-11 at 10.23.48 PM.png
-md code-refactor/assets/images/Screen Shot 2022-06-11 at 10.23.37 PM.png
+![Screen Shot 2022-06-11 at 10 23 37 PM](https://user-images.githubusercontent.com/98041369/173213414-8ca1b106-bed5-4beb-8170-99ee9ced6c12.png)
 
-   
+![Screen Shot 2022-06-11 at 10 23 48 PM](https://user-images.githubusercontent.com/98041369/173213422-20262dde-611c-4846-903b-9e8605627eb3.png)
 
    
 
@@ -29,6 +28,4 @@ Horiseon is original site creator
 The last section of a high-quality README file is the license. This lets other developers know what they can and cannot do with your project. If you need help choosing a license, refer to [https://choosealicense.com/](https://choosealicense.com/).
 
 ---
-
-🏆 The previous sections are the bare minimum, and your project will ultimately determine the content of this document. You might also want to consider adding the following sections.
 
