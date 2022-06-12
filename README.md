@@ -14,9 +14,9 @@ Provide instructions and examples for use. Include screenshots as needed.
 
 To add a screenshot, create an `assets/images` folder in your repository and upload your screenshot to it. Then, using the relative filepath, add it to your README using the following syntax:
 
-md ![alt text](assets/images/Screen Shot 2022-06-11 at 10.23.48 PM.png)
+![alt text](Screen Shot 2022-06-11 at 10.23.48 PM.png)
+![alt text](Screen Shot 2022-06-11 at 10.23.37 PM.png)
 
-md ![alt text](assets/images/Screen Shot 2022-06-11 at 10.23.37 PM.png)
    
 
    
