@@ -7,7 +7,7 @@ Changed all the div tags in the html to semantic tags. Adjusted the headings to 
 
 ## Installation
 
-View the active Github Pages.
+https://nuglah.github.io/code-refactor/ Link to Github pages.
 
 ## Usage
 
