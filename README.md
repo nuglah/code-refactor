@@ -3,13 +3,12 @@
 ## Description
 
 Optimizing code for accessibility to learn the process of looking through code and finding errors. Also, the importance of using semantic tags, and a logical code structure to make it easy to read and improve search engine results.
-Changes made...
+Changes made:
 -Changed all the div tags in the html to semantic tags
 -Adjusted the headings to be in sequntial order
 -Fixed the search engine optimization link 
 -Added alt attributes to all the images
 -Added title to head
-...
 ## Installation
 
 https://nuglah.github.io/code-refactor/ Link to Github pages.
